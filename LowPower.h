@@ -6,7 +6,7 @@
 enum period_t
 {
 	SLEEP_15MS,
-	SLEEP_30MS,	
+	SLEEP_30MS,
 	SLEEP_60MS,
 	SLEEP_120MS,
 	SLEEP_250MS,
